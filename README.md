@@ -2,6 +2,7 @@
 
 # Ruby-tdd-project
 
+In this project we implement a class with some methods, but we will do it by doing test-driven development (TDD)
 
 ## Built With
 
