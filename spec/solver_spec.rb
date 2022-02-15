@@ -11,6 +11,10 @@ describe Solver do
         expect(solver.factorial(0)).to eq(1)
       end
 
+      it 'returns 1 when 1 is passed' do
+        expect(solver.factorial(1)).to eq(1)
+      end
+
       it 'returns 2 when 2 is passed' do
         expect(solver.factorial(2)).to eq(2)
       end
